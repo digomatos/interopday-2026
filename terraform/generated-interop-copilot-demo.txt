@@ -1,4 +1,0 @@
-Projeto: interop-copilot-demo
-Objetivo: demonstrar Infrastructure as Code sem depender de credenciais cloud
-Ferramenta: Terraform
-Efeito: cria um arquivo local para validar fluxo e sintaxe
